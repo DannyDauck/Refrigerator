@@ -20,3 +20,6 @@ trigger section by default. You can turn that off at the inspector.
 
 <img src="screenshotThree.png" alt=""/>
 
+Here's how it looks like in a game scene:
+
+<img src="screenShotFour.png" alt=""/>
